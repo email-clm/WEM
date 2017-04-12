@@ -1,6 +1,6 @@
 # WEM
 Wetland Ecosystem Model
-This is the repository for the Wetland Ecosystem Model (Tian et al., 2010; Xu et al., 2011, Ecological Modeling). Please contact Xiaofeng Xu for any issues relevant to this model.
+This is the repository for the Wetland Ecosystem Model (Tian et al., 2010; Xu et al., 2011, Ecological Modeling). Please contact Xiaofeng Xu (xxu@mail.sdsu.edu or xuxfmail@gmail.com) for any issues relevant to this model.
 April 11, 2017
 
 References
