@@ -1,0 +1,35 @@
+0
+1997 1 1
+2015 12 31
+50
+300
+2
+clm1997-2200.txt
+1
+inflow1997_2200.txt
+outnofire.txt
+outflownofire.txt
+0.25
+0.02
+deposition.txt
+nofire.txt
+plantparameter1.txt
+phenology1.txt
+plantparameter2.txt
+phenology2.txt
+soilparameter.txt
+26.35 3.16 0.095
+waterparameter.txt
+periphytonparameter.txt
+initialcattail.txt
+initialsawgrass.txt
+initialperiphyton.txt
+initialsoil1.txt
+initialsoil2.txt
+initialsoil3.txt
+initialwater1.txt
+initialwater2.txt
+initialwater3.txt
+initialwater4.txt
+
+

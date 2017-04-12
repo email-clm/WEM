@@ -1,0 +1,16 @@
+PrecRate		0.05
+AirWaterK		2.5
+POCdif		0.05
+PONdif		0.05
+POPdif		0.05
+DOCdif		0.055
+DONdif		0.055
+DOPdif		0.055
+DNHdif		0.06
+DNOdif		0.06
+DPOdif		0.06
+m_PONdec		0.15
+m_PON_to_DON	0.45
+m_DONdec		0.25
+m_DON_to_SON	0.45
+PToSDecom	1.0

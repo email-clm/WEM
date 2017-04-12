@@ -1,0 +1,15 @@
+Pmax		1
+Kr		0.035
+Arrcons	1.01
+Tref		25
+Fresp		0.35
+Km		0.02
+Ktp		0.5
+Cmax		25
+Ik		100
+Fprel		0.05
+CN		50
+CP		900
+Flocdec	0.001
+FlocToSOM	0.00075
+SOMToFLoc	0.002

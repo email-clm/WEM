@@ -1,0 +1,26 @@
+The Current date and time for Model Run are: Tue Apr 20 01:27:10 2010
+
+Is the simulation if calibration (You could check one grid during simulation)
+ Input '1' for YES, Input '0' for NO.
+0In this model, Feburary is treated as 28 days through all the simulation years!!
+  Please input the model start date: year      month       day 
+1997
+1
+1
+In this model, we assume the Feburary only has 28 days in all years!!
+  Please input the model end date: year      month       day  
+2030
+12
+31
+How many time do you want to spin up (simulation using the first year data and calcualte on annual basis): 
+50The total day number for model simulation (spin up included) is: 30660 Days
+The total day number for model simulation (spin up excluded) is: 12410 Days
+Do you have the solar radiation data: 0 for NO, 1 for Solar radiation, 2 for PAR 
+2Please input the file name for the climate data: 
+The data format is: year month day ppt(mm) tavg(°„C) PAR(mmol/m2/s) 
+clm1997-2200.txtDo you have the water depth data, if yes, press 1, if no, the outflow rate must be provied 
+1Please input the file name which contains the inflow (m3/day) and outflow data (m): 
+The data format is: year month day inflow inno3 innh4 inpo4 indoc indon indop inpoc inpon inpop outflow 
+outflowfire.txtPlease input the file name to save the output: 
+outnofireds.txtThe Current date and time for Model Run are: Tue Apr 20 04:43:55 2010
+
